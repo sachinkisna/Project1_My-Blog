@@ -1,2 +1,1 @@
-# My Blog project
-learn how to create a project
+## My Blog project
