@@ -1,0 +1,17 @@
+.pgh{
+    text-align: center;
+    background-color: chocolate;
+    border-radius: 5px;
+    padding: 3px;
+    margin: 5px;
+}
+.pgc{
+    text-align: justify;
+    background-color: rgb(208, 208, 208);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    font-size: 20px;
+    line-height: 30px;
+
+}
