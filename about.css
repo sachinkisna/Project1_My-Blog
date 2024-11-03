@@ -15,3 +15,19 @@
     line-height: 30px;
 
 }
+.a-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.a-img img{
+    width: 600px;
+    height: 100%;
+    border-radius: 5px;
+}.a-img img:hover{
+    width: 700px;
+    height: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+}
