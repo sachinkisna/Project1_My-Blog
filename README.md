@@ -1,2 +1,2 @@
-# My Blog project
-learn how to create a project
+## Preview
+[View Project Preview](https://sachinkisna.github.io/Project1_My-Blog/index.html)
